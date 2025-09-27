@@ -1,0 +1,6 @@
+We are looking for a Data Analyst with strong skills in:
+- SQL
+- Python
+- Power BI
+- Data cleaning and reporting
+- Excel
